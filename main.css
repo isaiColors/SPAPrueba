@@ -1,0 +1,23 @@
+body {
+  background-color: #ccc;
+}
+
+img {
+  max-width: 100%;
+}
+
+.heading {
+  color: #1a1818;
+  text-align: center;
+  padding: 40vh;
+}
+
+.postes {
+  height: 70vh;
+  overflow: auto;
+}
+
+.bg-li {
+  background-color: #635252;
+}
+/*# sourceMappingURL=main.css.map */
